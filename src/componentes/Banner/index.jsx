@@ -1,6 +1,7 @@
 import React from 'react'
 import banner from '../Banner/banner.png'
-import style from './Banner.module.scss'
+import style from "../Banner/Banner.module.scss"
+
 
 export default function Banner() {
     return (
